@@ -1,0 +1,12 @@
+SET(SOURCES ui_Screen1.c
+    ui_Screen2.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_img_01_home_03_png.c
+    ui_img_nav_02_png.c
+    ui_img_nav_01_png.c
+    ui_img_options_02_png.c
+    ui_img_options_01_png.c)
+
+add_library(ui ${SOURCES})
