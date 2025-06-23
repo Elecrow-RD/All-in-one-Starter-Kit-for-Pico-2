@@ -53,7 +53,7 @@ C:\Users\Documents\Arduino\libraries\
 
 ![Snipaste_2025-05-20_18-17-33](Snipaste_2025-05-20_18-17-33.png)
 
-### 6,Folder structure.
+### 5,Folder structure.
 
 |--3D file： Contains 3D model files (.stp) for the hardware. These files can be used for visualization, enclosure design, or integration into CAD software.
 
@@ -67,6 +67,6 @@ C:\Users\Documents\Arduino\libraries\
 
 |--factory_sourcecode: Contains the source code for the factory firmware, allowing users to modify and rebuild the firmware as needed.
 
-### 7,Pin definition
+### 6,Pin definition
 
 ![Snipaste_2025-05-20_18-19-37](Snipaste_2025-05-20_18-19-37.png)
