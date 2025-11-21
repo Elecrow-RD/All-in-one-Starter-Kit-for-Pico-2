@@ -785,7 +785,7 @@ void game_3_test() {
             delay(100);
             while (1) {
 
-              if (-) {
+              if (false) {
                 delay(10);
                 if (touchY1 >= 200 && touchX1 >= 220 && touchX1 <= 280) {
                   State_flag = true;
@@ -1335,3 +1335,4 @@ void RGB_style4() {
 
   rainbowCycle(20);
 }
+
