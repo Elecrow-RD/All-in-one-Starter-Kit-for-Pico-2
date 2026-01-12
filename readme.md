@@ -13,6 +13,14 @@ https://www.elecrow.com/all-in-one-starter-kit-for-pico-2-with-common-board-desi
 | 1    | V1.2     | V1.1     | old |
 | 1    | V1.3     | V1.1     | latest |
 
+#### v1.1 Update:
+
+Replaced gyroscope sensor chip, removed MPU6050 circuit, and replaced it with LSM6DS3 circuit. Rearranged positions of red, green, and yellow LED beads.
+
+#### v1.3 Update:
+Added a switching power supply for the servo.
+
+
 ### 3, product information
 
 - Main Processor IC: RP2350A
