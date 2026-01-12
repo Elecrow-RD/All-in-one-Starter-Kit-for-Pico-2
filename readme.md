@@ -8,7 +8,10 @@ https://www.elecrow.com/all-in-one-starter-kit-for-pico-2-with-common-board-desi
 
 |      | Hardware | Software | Remark |
 | ---- | -------- | -------- | ------ |
-| 1    | V1.0     | V1.0     | latest |
+| 1    | V1.0     | V1.0     | old |
+| 1    | V1.1     | V1.1     | old |
+| 1    | V1.2     | V1.1     | old |
+| 1    | V1.3     | V1.1     | latest |
 
 ### 3, product information
 
